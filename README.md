@@ -1,5 +1,5 @@
 
-[![Gmail Badge](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirator04@gmail.com) &emsp;&emsp;[![LinkedIn - Yasir Eymen Kayabasi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/liniantt)&emsp;&emsp;
+[![Gmail Badge](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirator04@gmail.com) &emsp;&emsp;[![LinkedIn - Yasir Eymen Kayabasi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-eymen-kayabasi-4a9042240/)&emsp;&emsp;
 
 KRD-Kurmancî
 ---
