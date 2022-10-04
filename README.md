@@ -17,3 +17,5 @@ ENG-English
 Hello there! I'm Yasir Eymen Kayabaşı. I have JavaScript knowledge and I work on web projects. The strange thing is: I have 4 followers but one of them has 1.8k followers. Thanks David Kariuki (DK) for following me.
 
 ![image](https://user-images.githubusercontent.com/93262823/193576032-2682444a-d535-4021-ac7a-8bacef303a20.png)
+<img src="https://github-readme-stats.vercel.app/api?username=yaso09&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=ysrator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
