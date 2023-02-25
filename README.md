@@ -10,8 +10,7 @@ Silav li wir! Ez Yasir Eymen Kayabaşi me. Min zanîna JavaScriptê heye û ez l
 
 TR-Türkçe
 ---
-
-Merhaba! Ben Yasir Eymen Kayabaşı. JavaScript bilgisine sahibim ve web projelerinde çalışıyorum.
+Yasir Eymen Kayabaşı 2009'da Ağrı'da doğmuş Kürt bir yazılım geliştiricisidir. Kendisi 4. sınıfta iken Scratch kullanmaı öğrenmiş, 5. ve 6. sınıflarda kendi virüs programlarını yazmış ve 7. sınıfta akıllı tahtaları hacklediği için disipline gittikten sonra 2022 yılının Aralık ayında birkaç arkadaşı ile Rijit Games adında web tabanlı bir oyun geliştirme grubu kurdu.
 
 ENG-English
 ---
