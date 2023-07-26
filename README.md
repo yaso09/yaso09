@@ -6,8 +6,7 @@
 
 Biyografisi
 ---
-Yasir Eymen Kayabaşı 2009'da Ağrı'da doğmuş Kürt bir yazılım geliştiricisidir. Kendisi 4. sınıfta iken Scratch kullanmaı öğrenmiş, 5. ve 6. sınıflarda kendi virüs programlarını yazmış ve 7. sınıfta akıllı tahtaları hacklediği için disipline gittikten sonra 2022 yılının Aralık ayında birkaç arkadaşı ile Rijit Games adında web tabanlı bir oyun geliştirme grubu kurdu. Şuan 8. sınıf ve LGS'ye hazırlanıyor.
-Kendisi JavaScript, Node.js, BatchScript, HTML, CSS ve Python dillerinde uzmandır.
+Sanane aq
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yaso09&theme=light&hide_border=true&include_all_commits=true&count_private=true)
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=yaso09&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
