@@ -5,7 +5,7 @@
 
 
 # Ben Kimim?
-Ben Yasir Eymen KAYABAŞI, Profiler'ın kurucusu ve TahtalarDev'in ortağıyım. Liseye yeni geçtim ve cevap vermekte zorlanabilirim çünkü çok az bilgisayar bakabiliyorum.
+Ben Yasir Eymen KAYABAŞI, Profiler'ın kurucusu ve TahtalarDev'in kurucu ortağıyım. Liseye yeni geçtim ve cevap vermekte zorlanabilirim çünkü çok az bilgisayar bakabiliyorum.
 
 # Who am i?
 I'm Yasir Eymen KAYABAŞI, installer Profiler and co-founder of TahtalarDev. I may be slow to respond because i can't use computer mostly. NOTE: Sorry about my english.
