@@ -8,7 +8,7 @@
 Ben Yasir Eymen KAYABAŞI, TahtalarDev ve Profiler'ın kurucusu. Liseye yeni geçtim ve cevap vermekte zorlanabilirim çünkü çok az bilgisayar bakabiliyorum.
 
 # Who am i?
-I'm Yasir Eymen KAYABAŞI, Installer of TahtalarDev and
+I'm Yasir Eymen KAYABAŞI, Installer of TahtalarDev and Profiler. I may be slow to respond because i can't use computer mostly. NOTE: Sorry about my english.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yaso09&theme=light&hide_border=true&include_all_commits=true&count_private=true)
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=yaso09&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
