@@ -1,7 +1,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirator04@gmail.com) &emsp;&emsp;[![LinkedIn - Yasir Eymen Kayabasi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-eymen-kayabasi-4a9042240/)&emsp;&emsp;[![Patreon - Yasir  Eymen Kayabaşı](https://img.shields.io/badge/Patreon-D14836?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/yasirator)&emsp;&emsp;
 
-[![Yasir Eymen Kayabaşı](https://img.shields.io/badge/YASO09-blue)](#) [![Followers](https://img.shields.io/github/followers/yaso09)](#) [![Stars](https://img.shields.io/github/stars/yaso09?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#)
+[![Yasir Eymen Kayabaşı](https://img.shields.io/badge/YASO09-blue)](#) [![Followers](https://img.shields.io/github/followers/yaso09)](#) [![Stars](https://img.shields.io/github/stars/yaso09?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) [![](https://visitor-badge.laobi.icu/badge?page_id=yaso09.yaso09)](#)
 
 
 # Ben Kimim?
