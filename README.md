@@ -10,10 +10,10 @@ Ben Yasir Eymen KAYABAŞI, Profiler'ın kurucusu ve TahtalarDev'in kurucu ortağ
 # Who am i?
 I'm Yasir Eymen KAYABAŞI, installer of Profiler and co-founder of TahtalarDev. I may be slow to respond because i can't use computer mostly. NOTE: Sorry about my english.
 
+### Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node-%23000000.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+### GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yaso09&theme=light&hide_border=true&include_all_commits=true&count_private=true)
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=yaso09&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yaso09&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true)
-
----
-Projeyen/Projeler/Projects
----
