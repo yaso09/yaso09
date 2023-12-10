@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yasir Eymen KAYABAŞI ~Veledd</h1>  
 <h3 align="center">A high school student from Turkiye</h3>  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaso09&label=Profile%20views&color=0e75b6&style=flat" alt="yaso09" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaso09.yaso09&label=Profile%20views&color=0e75b6&style=flat" alt="yaso09" /> </p>  
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaso09" alt="yaso09" /></a> </p>  
   
