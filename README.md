@@ -8,9 +8,9 @@
   
 <p align="left"> <a href="https://twitter.com/@yasireymen31837" target="blank"><img src="https://img.shields.io/twitter/follow/@yasireymen31837?logo=twitter&style=for-the-badge" alt="@yasireymen31837" /></a> </p>  
   
-- 🔭 I’m currently working on [UnViewed](https://github.com/srcatarr/UnViewed)  
+- 🔭 I’m currently working on Tulpar  
   
-- 🌱 I’m currently learning **Nothing**  
+- 🌱 I’m currently learning epistemology and logic   
   
 - 👯 I’m collaborating on [[array]](https://github.com/srcatarr)  
   
