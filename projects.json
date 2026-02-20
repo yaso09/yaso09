@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "name": "Kur'ancılar",
+      "isOpenSource": true,
+      "repo": "https://github.com/yaso09/kurancilar",
+      "isWebSite": true,
+      "url": "https://kuran.yasireymen.com"
+    }
+  ]
+}
